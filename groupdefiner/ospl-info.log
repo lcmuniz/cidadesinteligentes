@@ -1,0 +1,664 @@
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:36-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 82775312 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : spliced 7fa718012700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570307256.090308065/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:36-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : spliced 7fa718012700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570307256.090544458/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:36-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : spliced 7fa718012700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307256.090799638/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T17:27:36-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : ddsi2 7fa69ba43700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570307256.109068799/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:36-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : ddsi2 7fa69ba43700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307256.112515779/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:36-0300
+Description : The durability service can be identified by ID: 82775312
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : durability 7fa69bde7700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570307256.513287114/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:27:44-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <846>
+Thread      : conflictResolver 7fa69b8cb700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307264.188686910/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:13-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1371892531 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : spliced 7f81e402d700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570307353.892780192/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:13-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : spliced 7f81e402d700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570307353.893213125/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:13-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : spliced 7f81e402d700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307353.893479748/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T17:29:13-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : ddsi2 7f81dc1f3700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570307353.905580720/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:13-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : ddsi2 7f81dc1f3700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307353.908528184/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:14-0300
+Description : The durability service can be identified by ID: 1371892531
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : durability 7f81dc2f4700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570307354.210582406/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:29:21-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <1662>
+Thread      : conflictResolver 7f81c8308700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307361.920726614/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:31-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1551409904 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : spliced 7f604801f700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570307431.536231177/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:31-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : spliced 7f604801f700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570307431.537279824/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:31-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : spliced 7f604801f700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307431.537548231/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T17:30:31-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : ddsi2 7f5fe7a43700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570307431.601940096/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:31-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : ddsi2 7f5fe7a43700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307431.604911494/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:31-0300
+Description : The durability service can be identified by ID: 1551409904
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : durability 7f5fe7de7700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570307431.907619646/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:30:39-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <2114>
+Thread      : conflictResolver 7f5fe7775700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570307439.652440271/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:36-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1131871394 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : spliced 7f3134076700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570308816.517574280/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:36-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : spliced 7f3134076700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570308816.517948623/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:36-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : spliced 7f3134076700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570308816.518164198/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T17:53:36-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : ddsi2 7f30d8933700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570308816.528071064/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:36-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : ddsi2 7f30d8933700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570308816.532331510/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:36-0300
+Description : The durability service can be identified by ID: 1131871394
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : durability 7f30d8cd7700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570308816.833774269/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:53:44-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <9676>
+Thread      : conflictResolver 7f30d8665700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570308824.502811397/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:59:57-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 834994023 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : spliced 7f057c096700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570309197.237264593/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:59:57-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : spliced 7f057c096700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570309197.283556119/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:59:57-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : spliced 7f057c096700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570309197.283881694/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T17:59:57-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : ddsi2 7f0521674700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570309197.295038482/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:59:57-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : ddsi2 7f0521674700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570309197.304055849/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T17:59:58-0300
+Description : The durability service can be identified by ID: 834994023
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : durability 7f0521a18700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570309198.225834939/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T18:00:05-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <11724>
+Thread      : conflictResolver 7f0521373700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570309205.816496676/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:15-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 912345371 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : spliced 7ff0c4729700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570314975.314754933/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:15-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : spliced 7ff0c4729700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570314975.315228688/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:15-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : spliced 7ff0c4729700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570314975.317580315/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T19:36:15-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : ddsi2 7ff0cc493700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570314975.328152110/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:15-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : ddsi2 7ff0cc493700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570314975.333611730/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:15-0300
+Description : The durability service can be identified by ID: 912345371
+Node        : lcmuniz-note
+Process     : java <3723>
+Thread      : durability 7ff0c4246700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570314975.641890397/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:51-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1619030901 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : spliced 7f70fc015700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570315011.308562735/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:51-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : spliced 7f70fc015700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570315011.310429240/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:51-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : spliced 7f70fc015700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570315011.320373345/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-05T19:36:51-0300
+Description : using network interface wlp5s0 (192.168.0.16) selected arbitrarily from: wlp5s0, vmnet1, vmnet8, br-f09924138082, br-1ee8ad592bf7, br-3114d4daeb9e, docker0
+
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : ddsi2 7f70c433b700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570315011.343697923/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:51-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : ddsi2 7f70c433b700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570315011.360699628/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:52-0300
+Description : The durability service can be identified by ID: 1619030901
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : durability 7f70c46df700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570315012.058873526/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-05T19:36:59-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <4019>
+Thread      : conflictResolver 7f70c412a700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570315019.627925980/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:03-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 2142226091 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : spliced 7f88e4ef5700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570452063.484046367/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:03-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : spliced 7f88e4ef5700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570452063.486130500/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:03-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : spliced 7f88e4ef5700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570452063.490770287/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-07T09:41:03-0300
+Description : using network interface wlp5s0 (172.29.43.49) selected arbitrarily from: wlp5s0, br-3114d4daeb9e, docker0, br-f09924138082, br-1ee8ad592bf7, vmnet1, vmnet8
+
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : ddsi2 7f886b573700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570452063.504532994/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:03-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : ddsi2 7f886b573700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570452063.515571253/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:04-0300
+Description : The durability service can be identified by ID: 2142226091
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : durability 7f88c8192700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570452064.508506829/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T09:41:12-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : conflictResolver 7f886b3b7700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570452072.069641680/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T14:02:34-0300
+Description : Missed heartbeat for node 1766541579. (DCPSPublication is complete)
+Node        : lcmuniz-note
+Process     : java <13472>
+Thread      : OSPL Garbage Collector 7f88dc110700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_spliced/v_spliced.c/2062/769/1570467754.212556607/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:14-0300
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 674462697 from [1,2147483647]
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : spliced 7f85a0036700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/The OpenSplice domain service/u_domain.c/785/0/1570486514.560400268/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:14-0300
+Description : Service cmsoap disabled
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : spliced 7f85a0036700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/OpenSplice domain service/sr_componentInfo.c/446/0/1570486514.619947932/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:14-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : spliced 7f85a0036700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570486514.620176930/0
+========================================================================================
+Report      : WARNING
+Date        : 2019-10-07T19:15:14-0300
+Description : using network interface wlp5s0 (192.168.43.141) selected arbitrarily from: wlp5s0, br-3114d4daeb9e, docker0, br-f09924138082, br-1ee8ad592bf7, vmnet1, vmnet8
+
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : ddsi2 7f855597b700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/ddsi2/q_nwif.c/989/0/1570486514.626924619/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:14-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : ddsi2 7f855597b700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570486514.630344626/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:14-0300
+Description : The durability service can be identified by ID: 674462697
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : durability 7f8555d1f700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/DurabilityService/d_durability.c/554/0/1570486514.933193884/0
+========================================================================================
+Report      : INFO
+Date        : 2019-10-07T19:15:22-0300
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : lcmuniz-note
+Process     : java <15584>
+Thread      : conflictResolver 7f85557ae700
+Internals   : 6.9.190705OSS/e85f0aa3/e85f0aa3/v_serviceChangeState/v_service.c/266/0/1570486522.550446975/0
