@@ -21,3 +21,8 @@
   
   Utilize o plugin do Maven para gerar o arquivo .jar. Depois basta executar a aplicação na
   linha de comando: java -jar contextnetdemo-0.0.1-SNAPSHOT.jar
+
+## interscitydemo
+
+  Aplicação web para cadastrar capacidades e recursos na plataforma InterSCity.
+
