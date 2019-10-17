@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CepdemoApplication implements CommandLineRunner {
 
-    private CEP cep;
+    private CEPOperator cepOperator;
 
     public static void main(String[] args) {
         SpringApplication.run(CepdemoApplication.class, args);
@@ -21,16 +21,16 @@ public class CepdemoApplication implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         EventBus.getDefault().register(this);
-        cep = new CEP();
+        cepOperator = new CEPOperator();
         val epl1 = "insert into TemperatureAverage select avg(value), 5, max(timestamp) from Temperature#win:time(5 sec)";
-        cep.addEPL(epl1);
+        cepOperator.addEPL(epl1);
         val epl2 = "select * from TemperatureAverage";
-        cep.addEPL(epl2, (events) -> teste(events));
+        cepOperator.addEPL(epl2, (events) -> teste(events));
     }
 
     @Subscribe
     public void on(Temperature event) {
-        cep.sendEvent(event);
+        cepOperator.sendEvent(event);
     }
 
     private void teste(EventBean[] events) {

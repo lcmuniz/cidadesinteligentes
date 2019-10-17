@@ -13,7 +13,7 @@ public class TemperatureSensor {
                 val event = new Temperature(Math.floor(Math.random() * 100), System.currentTimeMillis());
                 EventBus.getDefault().post(event);
                 try {
-                    Thread.sleep(3000);
+                    Thread.sleep(2000);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }

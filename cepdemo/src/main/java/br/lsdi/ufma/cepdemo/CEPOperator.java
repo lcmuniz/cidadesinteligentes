@@ -7,11 +7,11 @@ import lombok.val;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 
-public class CEP {
+public class CEPOperator {
 
     private final EPServiceProvider engine;
 
-    public CEP() {
+    public CEPOperator() {
         engine = EPServiceProviderManager.getDefaultProvider();
         engine.getEPAdministrator().getConfiguration().addEventType(Temperature.class);
         engine.getEPAdministrator().getConfiguration().addEventType(TemperatureAverage.class);
